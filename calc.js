@@ -1,7 +1,3 @@
-/*
- * Implement all your JavaScript in this file!
- */
- 
  var currNum = ""; 
  var prevNum = 0;
  var operation = ""; 
