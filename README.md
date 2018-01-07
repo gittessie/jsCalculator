@@ -1,5 +1,5 @@
 # jsCalculator
-A simple calculator 
+A simple calculator; for practice, html file from PennX
 
 ## Getting Started
-Download files and jquery and open in web browser
+Download files and jquery.js and open in web browser
